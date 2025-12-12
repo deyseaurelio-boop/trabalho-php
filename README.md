@@ -81,24 +81,28 @@ A aplicação permite combinar parâmetros para extrair informações específic
 
 ### Lista de Consultas Realizadas
 * Panorama Geral: Quantidade total de matrículas divididas por curso.
-![Grafico Cursos](./grafico de pizza.png)
+![Grafico Cursos](./grafico_cursos.png)
 
 * Análise Demográfica (Crateús): Alunos residentes em Crateús separados por curso.
+  ![Grafico Cursos Crateus](./cursos_crateus.png)
 
 * Geolocalização: Distribuição de alunos por municípios de origem.
+  ![Grafico Cidades](./grafico_02.png)
 
-* Foco em Informática: De onde vêm os alunos matriculados no curso de Informática.
-
+* Foco em Informática: De onde vêm os alunos matriculados no curso de Desenvolvimento de Sistemas.
+  ![Grafico DS cidades](./alunos_cidade_ds.png)
+  
 * Faixa Etária Global: Histograma de idades de todos os alunos cadastrados.
+  ![Grafico Idade](./grafico_03.png)
 
-* Faixa Etária (Informática): Perfil de idade específico dos alunos de T.I.
+* Faixa Etária (Administração): Perfil de idade específico dos alunos de T.I.
+  ![Grafico Idade ADM](./responsaveis_adm.png)
 
 * Curso "Campeão": Identificação automática do curso com maior número de inscritos.
-
-* Destaque Regional (Jijoca): Qual curso é preferido pelos alunos de Jijoca de Jericoacoara.
-
 * Maior Polo de Alunos: Identificação automática da cidade com mais matrículas.
+![Destaques](./curso_cidade_destaque.png)
 
+* Destaque Regional (Crateus): Qual curso é preferido pelos alunos de Jijoca de Jericoacoara.
 * Polo de Informática: Cidade que mais envia alunos para o curso de Informática.
 
 📝 Conclusão
